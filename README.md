@@ -1,2 +1,2 @@
 # Optimizer
-Optimizer For Windows 10 and Games!
+Optimizer For Windows and Games!
